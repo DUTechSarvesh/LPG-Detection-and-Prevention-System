@@ -65,6 +65,6 @@ Features include:
 
 ## 👥 Team & Acknowledgement  
 This project was completed in collaboration with my college teammates.  
-My primary focus was on **ESP32 integration**, **web UI design**, and **system automation logic**.  
+My primary focus was on **web UI design**, and **system automation logic**.  
 
 ---
